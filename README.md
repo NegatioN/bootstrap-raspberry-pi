@@ -1,2 +1,2 @@
 # bootstrap-raspberry-pi
-Bootstrap raspberry pi with development tools
+Install a decent dev-environement on raspberry pi 3 with `sudo ./bootstrap.sh`
